@@ -105,7 +105,7 @@ Windows
 The project is organized into separate scripts for different stages of the computer-vision pipeline:
 
 ```text
-EyeReelControl/
+cd Eye-detection/
 │
 ├── test_camera.py
 ├── face_detection.py
@@ -173,7 +173,7 @@ absl-py
 
 ```bash
 git clone <YOUR-GITHUB-REPOSITORY-URL>
-cd EyeReelControl
+Eye-detection
 ```
 
 ### 2. Create a Virtual Environment
